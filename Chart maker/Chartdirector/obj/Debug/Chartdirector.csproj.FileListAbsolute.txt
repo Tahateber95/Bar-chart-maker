@@ -1,0 +1,14 @@
+C:\Users\tahateber\Desktop\Chartdirector\Chartdirector\bin\Debug\Chartdirector.exe.config
+C:\Users\tahateber\Desktop\Chartdirector\Chartdirector\obj\Debug\Chartdirector.csprojResolveAssemblyReference.cache
+C:\Users\tahateber\Desktop\Chartdirector\Chartdirector\obj\Debug\Chartdirector.Form1.resources
+C:\Users\tahateber\Desktop\Chartdirector\Chartdirector\obj\Debug\Chartdirector.Properties.Resources.resources
+C:\Users\tahateber\Desktop\Chartdirector\Chartdirector\obj\Debug\Chartdirector.csproj.GenerateResource.Cache
+C:\Users\tahateber\Desktop\Chartdirector\Chartdirector\bin\Debug\Chartdirector.exe
+C:\Users\tahateber\Desktop\Chartdirector\Chartdirector\bin\Debug\Chartdirector.pdb
+C:\Users\tahateber\Desktop\Chartdirector\Chartdirector\bin\Debug\netchartdir.dll
+C:\Users\tahateber\Desktop\Chartdirector\Chartdirector\bin\Debug\netchartdir.xml
+C:\Users\tahateber\Desktop\Chartdirector\Chartdirector\obj\Debug\Chartdirector.exe
+C:\Users\tahateber\Desktop\Chartdirector\Chartdirector\obj\Debug\Chartdirector.pdb
+C:\Users\tahateber\Desktop\Chartdirector\Chartdirector\bin\Debug\MetroFramework.Design.dll
+C:\Users\tahateber\Desktop\Chartdirector\Chartdirector\bin\Debug\MetroFramework.dll
+C:\Users\tahateber\Desktop\Chartdirector\Chartdirector\bin\Debug\MetroFramework.Fonts.dll
